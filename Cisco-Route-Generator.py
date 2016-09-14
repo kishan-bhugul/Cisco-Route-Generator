@@ -1,5 +1,5 @@
 #Cisco Static Route Generator
-#Autohor Kishan Bhugul
+#Author Kishan Bhugul
 #Version 1.0
 
 file = open('ipRoutes.txt', 'r')
